@@ -6,6 +6,7 @@
 - Visit https://sanglisoftware.com
 - YouTube https://www.youtube.com/channel/UCFL7mbDZIt_l09p0e_HKUoA/featured
 - Facebook https://www.facebook.com/sanglisoftware & https://www.facebook.com/AmolPatilSS
+- Our products are e Commerce, Nidhi Banking, Billing Software, etc.
 
 <!---
 sanglisoftware/sanglisoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
