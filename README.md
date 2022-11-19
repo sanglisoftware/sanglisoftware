@@ -1,4 +1,4 @@
-- 👋 Hi, We are @sanglisoftware
+- 👋 Hi, We are @sanglisoftware Sangli Software
 - 👀 We interested in Android, Web & Desktop Application Development
 - 🌱 We are currently working in Web(Angular), Android(Kotlin) & Desktop(.net), etc
 - 💞️ We are looking to collaborate on Angular, Kotlin, C#.net
